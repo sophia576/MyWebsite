@@ -1,0 +1,45 @@
+html{
+   width: 400px;
+   margin: auto;
+   background-color:black;
+   position: center;
+   }
+
+body {
+   background-color:powderblue;
+   border: double 5px;
+   padding: 10px;
+    color: dodgerblue;
+   font-family: verdana;}
+h1{
+   color: blue;
+   border-bottom: solid 2px;
+   text-align: center;}
+p{
+   color: red;}
+
+p.caption {
+   font-size: 13px;
+   font-variant:small-caps;}
+
+
+
+img{
+  border-radius: 8px;
+  border: solid 3px white;
+  padding: 5px;
+float: right;
+margin-bottom: 15px;}
+
+
+
+
+
+
+
+ 
+
+
+
+
+
